@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 my name is prethvi
 =======
-my name is prethvi 
->>>>>>> demo1
+my name is prethvi kumar be mech
